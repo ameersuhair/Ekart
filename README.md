@@ -7,7 +7,7 @@ This is a demo project for practicing Spring + Thymeleaf. The idea was to build 
 It was made using **Spring Boot**, **Spring Security**, **Thymeleaf**, **Spring Data JPA**, **Spring Data REST and Docker**. 
 Database is in memory **H2**.
 
-Its a little modification.
+Its a little more modification.
 
 There is a login and registration functionality included.
 
