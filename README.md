@@ -9,6 +9,8 @@ Database is in memory **H2**.
 
 Its a little more modification.
 
+its another one modification
+
 There is a login and registration functionality included.
 
 Users can shop for products. Each user has his own shopping cart (session functional
